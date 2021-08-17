@@ -109,7 +109,7 @@ class App extends React.Component {
       <div className="app">
         <Headers />
         <div className='container'>
-        <b>SSAB Bank </b> <i>Where Banking Matters</i>
+        <b> SSAB BANK</b>
           <LoginForum />
           </div>
           <Footer />
